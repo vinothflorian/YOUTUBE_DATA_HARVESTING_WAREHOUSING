@@ -1,4 +1,4 @@
-# YOUTUBE_DATA_HARVESTING_WAREHOUSING
+# YOUTUBE DATA HARVESTING & WAREHOUSING
 This project is about extractingthe channel, video and comment info and analysing the collected data. The program uses the YouTube Data API to retrieve the required data such as channel information, video satistics and comment information
 
 **characteristics of the Application**
