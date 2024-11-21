@@ -13,6 +13,13 @@ This project is about extractingthe channel, video and comment info and analysin
 1. Python
 2. Youtube Data API
 3. python Libraries like streamlit, pandas, MySql and google API
+4. MySQL
+
+**Setup**
+1. Activate Youtube API in Google console and notedown the API key
+2. Assign the youtube api key to the variable api_key in the code
+3. make sure MySQL is installed and running
+   
 
 
       
