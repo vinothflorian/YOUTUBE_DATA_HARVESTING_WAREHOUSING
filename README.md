@@ -19,7 +19,14 @@ This project is about extractingthe channel, video and comment info and analysin
 1. Activate Youtube API in Google console and notedown the API key
 2. Assign the youtube api key to the variable api_key in the code
 3. make sure MySQL is installed and running
-   
+
+**usage**
+1. The Application has two tabs, Home Tab and Query Tab
+2. Home tab has the baisc information about the application and a input box to enter the channel ID.
+3. The 'Get Info' button will helps to retrive the  channel related information.
+4. The 'Load to DB' button is used to fetch and add the channel, video and comment data of the respective channel to MySQL Database.
+5. The query tab has a list of questions for which the results need to be produced.
+6. select the respective query and click result button to see the output.
 
 
       
