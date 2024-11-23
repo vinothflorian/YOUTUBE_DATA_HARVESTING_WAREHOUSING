@@ -34,7 +34,7 @@ cursor.execute(ch_comments)
 
 api_service_name = "youtube"
 api_version = "v3"
-api_key="AIzaSyAhn-lcQkF7LPtNIJ1EK8AmmPnE7WyNOrc"
+api_key="AIzaSyC6Y8qNvnZkPHP0E6a96gpRzGpgVZDEMJE"
 youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey=api_key)
 
